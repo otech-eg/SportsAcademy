@@ -1,3 +1,36 @@
-assets/
-protected/runtime/
-themes/classic/views/
+#######################
+##### Application #####
+#######################
+*.log
+0. Docs
+assets
+
+###################
+##### Windows #####
+###################
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+###################
+##### MAC OSX #####
+###################
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
